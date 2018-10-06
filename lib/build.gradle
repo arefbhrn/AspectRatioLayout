@@ -44,7 +44,7 @@ install {
             licenses {
                 license {
                     name 'The Apache License 2.0'
-                    url 'https://opensource.org/licenses/MIT'
+                    url 'https://opensource.org/licenses/Apache-2.0'
                 }
             }
             scm {
