@@ -1,4 +1,3 @@
-[ ![Download](https://api.bintray.com/packages/arefdev/libraries/aspectratiolayout/images/download.svg) ](https://bintray.com/arefdev/libraries/aspectratiolayout/_latestVersion)
 [![](https://jitpack.io/v/arefbhrn/AspectRatioLayout.svg)](https://jitpack.io/#arefbhrn/AspectRatioLayout)
 
 Aspect Ratio Layout
@@ -13,7 +12,7 @@ Gradle
 
 ```
 dependencies {
-    compile 'com.arefbhrn.libraries:aspectratiolayout:1.0.0'
+    implementation 'com.github.arefbhrn:aspectratiolayout:1.0.1'
 }
 ```
 
