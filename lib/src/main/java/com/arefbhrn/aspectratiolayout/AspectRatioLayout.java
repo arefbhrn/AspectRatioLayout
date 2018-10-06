@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.View;
+import android.widget.RelativeLayout;
 
 /**
  * Written by "Aref Bahreini Nejad"
@@ -11,7 +12,7 @@ import android.view.View;
  * Date: 06/10/2018
  */
 
-public class AspectRatioLayout extends View {
+public class AspectRatioLayout extends RelativeLayout {
 
     private float aspectRatio = -1;
 
