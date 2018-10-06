@@ -5,11 +5,10 @@ import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.arefbhrn.eprdownloader.R;
-
-/**     Written by "Aref Bahreini Nejad"
- *      Version: 1.0.1
- *      Date: 06/10/2018
+/**
+ * Written by "Aref Bahreini Nejad"
+ * Version: 1.0.1
+ * Date: 06/10/2018
  */
 
 public class AspectRatioLayout extends View {

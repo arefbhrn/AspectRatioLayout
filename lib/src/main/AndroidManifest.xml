@@ -1,7 +1,1 @@
-<!--
-  ~     Copyright (C) 2018 Aref Bahreini Nejad
-  ~     This is an extension of PRDownloader by "MindOrks" on github
-  -->
-<manifest package="com.arefbhrn.aspectratiolayout">
-
-</manifest>
+<manifest package="com.arefbhrn.aspectratiolayout" />
