@@ -54,4 +54,4 @@ If you have a better idea or way on this project, please let me know, thanks :)
 License
 ===========================
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
