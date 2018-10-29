@@ -12,7 +12,7 @@ Gradle
 
 ```
 dependencies {
-    implementation 'com.github.arefbhrn:aspectratiolayout:1.0.1'
+    implementation 'com.github.arefbhrn:aspectratiolayout:1.0.3'
 }
 ```
 
