@@ -12,7 +12,7 @@ Gradle
 
 ```
 dependencies {
-    implementation 'com.github.arefbhrn:aspectratiolayout:1.0.3'
+    implementation 'com.github.arefbhrn:aspectratiolayout:1.0.4'
 }
 ```
 
@@ -31,18 +31,20 @@ Include this library in your layout
     android:id="@+id/container_ratio_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:aspectRatio="0.5">
+    app:aspectRatio="0.5"
+    app:isRatioHeightToWidth="true">
     
     // any other layouts
     
 </com.arefbhrn.aspectratiolayout.AspectRatioLayout>
  ```
  
-####  Supported Attributs
+####  Supported Attributes
 
-| XML Attribut        | Programmatical Setter           | Description  |
-| ------------- |:-------------:| ---------:|
-| app:aspectRatio      | setAspectRatio(float ratio)     | aspect ratio (height / width). |
+| XML Attribute | Programmatic Setter | Description  |
+| -------------------------- |:-------------:| ---------:|
+| app:aspectRatio            | setAspectRatio(float ratio)     | aspect ratio (height / width). |
+| app:isRatioHeightToWidth   | setRatioHeightToWidth(boolean ratioHeightToWidth)     | if true: aspect ratio = (height / width), otherwise: aspect ratio = (width / height) |
  
 Contact me
 ===========================
